@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''task 10 module'''
+'''task 11 module'''
 
 
 class Student:
